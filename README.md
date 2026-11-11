@@ -17,3 +17,5 @@ python server.py
 ```
 
 Site-ul pornește pe http://localhost:8835. Pe Vercel, `DATABASE_URL` și `MOBILATA_SECRET` se pun în setările proiectului.
+
+Site online: https://mobilata-online.vercel.app (se actualizeaza singur la fiecare urcare pe GitHub).
