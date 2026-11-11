@@ -1,0 +1,9 @@
+# Secrete
+.env
+.env.*
+google_client_secret.json
+
+# Python
+__pycache__/
+*.pyc
+.vercel/
